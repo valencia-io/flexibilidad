@@ -1,0 +1,28 @@
+{
+  "name": "flexibilidad",
+  "version": "1.0.0",
+  "description": "Flexbox layouts made simple",
+  "main": "index.html",
+  "dependencies": {
+    "node-sass": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valencia-io/flexibilidad.git"
+  },
+  "keywords": [
+    "flexbox",
+    "css",
+    "sass"
+  ],
+  "author": "jupegarnica",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valencia-io/flexibilidad/issues"
+  },
+  "homepage": "https://github.com/valencia-io/flexibilidad#readme"
+}
