@@ -14,6 +14,12 @@ Flexbox provides simpler and more flexible layout:
 ### Demo
 [Demo](http://valencia-io.github.io/flexibilidad)
 
+### Getting started
+
+```HTML
+<link rel="stylesheet" href="https://cdn.rawgit.com/valencia-io/flexibilidad/gh-pages/flexibilidad.css">
+```
+
 ### TODO
 -
 -
